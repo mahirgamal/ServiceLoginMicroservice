@@ -51,13 +51,6 @@ The application is structured using a modular architecture, aligning with Domain
   - **`mysqlconfig.json`**: Configuration for connecting to the MySQL database, managing user authentication data.
   - **`rabbitmqconfig.json`**: Configuration for RabbitMQ, used to handle asynchronous messaging and login event processing.
 
-## Related Projects
-
-- [User Management Microservice](https://github.com/yourusername/UserManagementMicroservice): A microservice dedicated to handling user profiles, registration, and management tasks.
-- [Audit Logging Microservice](https://github.com/yourusername/AuditLoggingMicroservice): Monitors and logs login attempts, authentication successes, and failures for security auditing.
-- [Notification Service](https://github.com/yourusername/NotificationService): Sends notifications for login activities, such as login alerts and password recovery notifications.
-- [Security Management Service](https://github.com/yourusername/SecurityManagementService): Manages security policies, access controls, and user permissions across different services.
-
 ## Project Structure
 
 ```
